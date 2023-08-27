@@ -1,0 +1,19 @@
+body {
+  background-color: #000;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: 'Fjalla One', sans-serif;
+  color: white;
+}
+
+.center-content {
+  text-align: center;
+}
+
+.brand {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
